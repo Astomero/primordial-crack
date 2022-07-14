@@ -1,3 +1,6 @@
 # primordial-crack
 No joking around. 
-Sorry eso for latest release </3
+# instruction
+Requirements
+- have basic knowledge on how to run cs cheats
+- use astomero injector
